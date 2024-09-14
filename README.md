@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>🏢 I am currently working at Mineacademy Kft.<br>🧑‍💻 I work as an Executive Developer<br>📚 I'm currently learning Minecraft Plugin Development<br>🎯 Goals: Start my own business</p>
+<p align="left">✨ Creating bugs since 2018<br>🏢 I am currently working at Mineacademy Kft.<br>🧑‍💻 I work as an Executive Developer<br>📚 I'm currently learning Machine Learning<br>🎯 Goals: Start my own business</p>
 
 ###
 

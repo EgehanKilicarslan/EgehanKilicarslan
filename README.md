@@ -40,7 +40,7 @@ me = Developer()
 me.say_hi()
 ```
 
-🚀 Current Status 
+## 🚀 Current Status 
 
     💼 Working as an Executive Developer  at Mineacademy Kft. 
     🤖 Exploring the depths of Machine Learning 
@@ -49,15 +49,15 @@ me.say_hi()
     🌱 Always learning, always growing
      
 
-🛠️ Tech Arsenal 
+## 🛠️ Tech Arsenal 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,git,github,docker,mysql,vscode,linux&perline=4" />
 </div>
 
-📊 GitHub Analytics 
+## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EgehanKilicarslan&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgehanKilicarslan&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EgehanKilicarslan&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgehanKilicarslan&layout=compact&theme=tokyonight" height="150" />
 </div>
 
 <div align="center">

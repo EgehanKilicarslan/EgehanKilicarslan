@@ -1,39 +1,65 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Egehan and I'm a Student, from Turkey</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2018<br>🏢 I am currently working at Mineacademy Kft.<br>🧑‍💻 I work as an Executive Developer<br>📚 I'm currently learning Machine Learning<br>🎯 Goals: Start my own business</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f3148,100:6A5ACD&height=200&section=header" width="100%"/>
 </div>
 
-###
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&width=535&lines=Hello+World!+%F0%9F%91%8B;I'm+Egehan+Kılıçarslan;Welcome+to+my+Profile!" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <em>Executive Developer at Mineacademy Kft. | Machine Learning Enthusiast | Software Developer</em>
+</p>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31ezazr4azgvxgz3xqouijh72l4u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ezazr4azgvxgz3xqouijh72l4u&count=1&unique=true" alt="Spotify recently played"  />
+  <a href="https://instagram.com/egehankilicarslan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/egehankilicarsl">
+    <img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:egehankilicarslan@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
-###
+## 🌟 About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Egehan Kilicarslan"
+        self.role = "Executive Developer"
+        self.company = "Mineacademy Kft."
+        self.language_spoken = ["tr_TR", "en_US"]
+        self.code_since = 2018
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's create something amazing together!")
+
+me = Developer()
+me.say_hi()
+```
+
+🚀 Current Status 
+
+    💼 Working as an Executive Developer  at Mineacademy Kft. 
+    🤖 Exploring the depths of Machine Learning 
+    🎯 Building towards my dream of launching my own tech venture
+    💻 Turning coffee into code since 2018
+    🌱 Always learning, always growing
+     
+
+🛠️ Tech Arsenal 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,docker,mysql,vscode,linux&perline=4" />
+</div>
+
+📊 GitHub Analytics 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EgehanKilicarslan&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgehanKilicarslan&layout=compact&theme=tokyonight" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:2f3148,100:1a1b27&height=100&section=footer" width="100%"/>
+</div>

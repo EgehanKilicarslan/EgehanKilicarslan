@@ -29,7 +29,7 @@ class Developer:
     def __init__(self):
         self.name = "Egehan Kilicarslan"
         self.role = "Executive Developer"
-        self.company = "Mineacademy Kft."
+        self.company = "MineAcademy Kft."
         self.language_spoken = ["tr_TR", "en_US"]
         self.code_since = 2018
         

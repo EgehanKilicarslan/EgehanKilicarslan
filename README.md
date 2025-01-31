@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <em>Executive Developer at Mineacademy Kft. | Machine Learning Enthusiast | Software Developer</em>
+  <em>Executive Developer at MineAcademy Kft. | Machine Learning Enthusiast | Software Developer</em>
 </p>
 
 <div align="center">

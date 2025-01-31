@@ -34,7 +34,7 @@ class Developer:
         self.code_since = 2018
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's create something amazing together!")
+        print("Thanks for dropping by! Let's create something amazing!")
 
 me = Developer()
 me.say_hi()

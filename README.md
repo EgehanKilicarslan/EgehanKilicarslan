@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <em>Executive Developer at MineAcademy Kft. | Machine Learning Enthusiast | Software Developer</em>
+  <em>Software Developer at MineAcademy Kft. | Machine Learning Enthusiast | Software Developer</em>
 </p>
 
 <div align="center">
@@ -28,7 +28,7 @@
 class Developer:
     def __init__(self):
         self.name = "Egehan Kilicarslan"
-        self.role = "Executive Developer"
+        self.role = "Software Developer"
         self.company = "MineAcademy Kft."
         self.language_spoken = ["tr_TR", "en_US"]
         self.code_since = 2018
@@ -42,7 +42,7 @@ me.say_hi()
 
 ## 🚀 Current Status 
 
-    💼 Working as an Executive Developer at Mineacademy Kft. 
+    💼 Working as an Software Developer at Mineacademy Kft. 
     🤖 Exploring the depths of Machine Learning 
     🎯 Building towards my dream of launching my own tech venture
     💻 Turning coffee into code since 2018

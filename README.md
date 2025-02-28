@@ -42,7 +42,7 @@ me.say_hi()
 
 ## 🚀 Current Status 
 
-    💼 Working as an Software Developer at Mineacademy Kft. 
+    💼 Working as a Software Developer at Mineacademy Kft. 
     🤖 Exploring the depths of Machine Learning 
     🎯 Building towards my dream of launching my own tech venture
     💻 Turning coffee into code since 2018
